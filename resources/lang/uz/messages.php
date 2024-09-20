@@ -1,0 +1,32 @@
+<?php
+
+return [
+    'NEWS' => 'Yangiliklar',
+    'ARTICLES' => 'MAQOLA VA TEZISLAR',
+    'Articles' => 'Maqolalar va tezislar',
+    'DOCTORAL' => 'DOKTORANTLAR UCHUN',
+    'VACANCIES' => 'BO`SH ISH O`RINLARI',
+    'subscribe' => 'Yangiliklarga obuna boling',
+    'latest' => 'Barcha so`ngi yangiliklardan xabardor bo`ling',
+    'indicators' => 'Sanoat zonalarida tadbirkorlik subyektlariga yer uchastkalarini realizatsiya qilish tahlili',
+    'plots' => 'MHTI ekspertlari sanoat zonalarida ishlab chiqarish loyihalarini amalga oshirish uchun tadbirkorlik sub’ektlariga..',
+    'loans' => 'To`g`ridan-to`g`ri xorijiy investitsiyalar va kreditlarning YalMdagi ulushi',
+    'enterprises' => 'Xorijiy kapital ishtirokidagi korxonalar son',
+    'products' => 'Plastmassa buyumlarni ishlab chiqarish',
+    'performance' => '2024 yil may oyi faoliyatning asosiy ko`rsatkichlari',
+    'thousand' => 'mingta',
+    'percent' => 'foizga oshdi',
+    'all' => 'Hammasi',
+    'popular' => 'Ommabop maqolalar',
+    'news_articles' => 'Yangi maqolalar',
+    'enter_mail' => 'E-mailngizni kiriting',
+    'researchers'=>'Makroiqtisodiy va hududiy tadqiqotlar instituti ilmiy-tadqiqotchilarni ishga taklif qiladi',
+    'candidates'=>'Quyidagi talablar nomzodlar imkoniyatini oshiradi: Iqtisodiyot moliya va matematika yo`nalishlarida magistratura yoki PhD darajasiga ega bo`lish...',
+    'detailed' => 'Batafsil',
+    'news_detailed'=>'Yangiliklardan xabardor bo`lish uchun bizga obuna bo`ling.',
+    'email'=>'Pochta manzilingiz kiriting..',
+    'subscribe'=>'Obuna bo`lish',
+    'directions'=>'Tadqiqot yo`nalishlari',
+    'showing' => 'Ko‘rsatilmoqda :from dan :to gacha jami :total natijalar',
+    'jurnal'=>'Jurnal'
+];
